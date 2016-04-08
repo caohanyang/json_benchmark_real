@@ -1,0 +1,23 @@
+[
+  {
+    "op": "add",
+    "path": "/father/0",
+    "value": {
+      "id": 1,
+      "married": false,
+      "name": "Jason Perez",
+      "sons": null,
+      "daughters": [
+        {
+          "age": 8,
+          "name": "Brenda",
+          "Yr8na": "HvXb"
+        }
+      ]
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/father/1"
+  }
+]

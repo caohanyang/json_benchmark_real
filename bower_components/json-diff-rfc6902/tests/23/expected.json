@@ -1,0 +1,46 @@
+[
+  {
+    "op": "remove",
+    "path": "/arr/2"
+  },
+  {
+    "op": "replace",
+    "path": "/arr/2",
+    "value": {
+      "f1": "m",
+      "f2": "n"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/arr/4",
+    "value": {
+      "f1": "g",
+      "f2": "h"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/d",
+    "value": 44
+  },
+  {
+    "op": "remove",
+    "path": "/a"
+  },
+  {
+    "op": "move",
+    "from": "/b",
+    "path": "/f"
+  },
+  {
+    "op": "copy",
+    "path": "/e",
+    "from": "/c"
+  },
+  {
+    "op": "add",
+    "path": "/m",
+    "value": 10
+  }
+]

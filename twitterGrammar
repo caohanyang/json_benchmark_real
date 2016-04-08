@@ -1,0 +1,50 @@
+var grammar = {
+   "num_results": 1194,
+   "users|1194": [
+      {
+         "id"|+1: 1881073466,
+         "verified|1": false,
+         "is_dm_able|1": true,
+         "can_media_tag|1": true,
+         "name": "@FIRST @LAST",
+         "screen_name": "@FIRST @LAST",
+         "profile_image_url|11-12": "jfuisdh",
+         "profile_image_url_https|11-12": "yiroruk",
+         "location": "",
+         "rounded_score|10000-20000": 10000,
+         "rounded_graph_weight|10000000-20000000": 10000267,
+         "social_proof|1-10": 2,
+         "connecting_user_count|0-1": 0,
+         "connecting_user_ids": [],
+         "social_proofs_ordered": [2],
+         "social_context": {
+            "following|1": false,
+            "followed_by|1": false,
+            "related_users|0-1": {
+               "follow_and_follow": {
+                  "users": [
+                     {
+                        "id": 28471026,
+                        "id_string": "28471026",
+                        "name": "@FIRST",
+                        "screen_name": "@FIRST @LAST"
+                     }
+                  ],
+                  "num_more_users": 2
+               }
+            }
+
+         },
+         "tokens|4-5": [
+            {
+               "token": "@FIRST@LAST"
+            }
+         ],
+         "inline|1": false
+      },
+   "topics": [],
+   "oneclick": [],
+   "hashtags": [],
+   "completed_in": 0.107,
+   "query": ""
+};

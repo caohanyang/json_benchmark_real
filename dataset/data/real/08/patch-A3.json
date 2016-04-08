@@ -1,0 +1,79 @@
+[
+  {
+    "op": "replace",
+    "path": "/quota_remaining",
+    "value": 251
+  },
+  {
+    "op": "add",
+    "path": "/items/0",
+    "value": {
+      "owner": {
+        "reputation": 950,
+        "user_id": 504452,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e83dcdca34ab322e45f2ba18a24a7fb8?s=128&d=identicon&r=PG",
+        "display_name": "bedrin",
+        "link": "http://stackoverflow.com/users/504452/bedrin"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1432827341,
+      "creation_date": 1432827341,
+      "answer_id": 30511098,
+      "question_id": 8583853
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/1",
+    "value": {
+      "owner": {
+        "reputation": 949,
+        "user_id": 2380618,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7ec99c8f94340a994622895716881210?s=128&d=identicon&r=PG",
+        "display_name": "Phil Anderson",
+        "link": "http://stackoverflow.com/users/2380618/phil-anderson"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1432827338,
+      "creation_date": 1432827338,
+      "answer_id": 30511096,
+      "question_id": 30459752
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/15",
+    "value": {
+      "owner": {
+        "reputation": 1,
+        "user_id": 3864549,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d1715c5af32551ba62357c8301ec191a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "0Bli0",
+        "link": "http://stackoverflow.com/users/3864549/0bli0"
+      },
+      "is_accepted": false,
+      "score": -1,
+      "last_activity_date": 1432827306,
+      "creation_date": 1432827306,
+      "answer_id": 30511079,
+      "question_id": 30510904
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/items/16"
+  },
+  {
+    "op": "remove",
+    "path": "/items/30"
+  },
+  {
+    "op": "remove",
+    "path": "/items/30"
+  }
+]

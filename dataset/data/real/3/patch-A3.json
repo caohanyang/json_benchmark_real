@@ -1,0 +1,81 @@
+[
+  {
+    "op": "replace",
+    "path": "/quota_remaining",
+    "value": 256
+  },
+  {
+    "op": "add",
+    "path": "/items/0",
+    "value": {
+      "owner": {
+        "reputation": 265,
+        "user_id": 2524973,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/beaf52d3d28d6e26653336c359a3f5e1?s=128&d=identicon&r=PG",
+        "display_name": "lispHK01",
+        "link": "http://stackoverflow.com/users/2524973/lisphk01"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1432827319,
+      "creation_date": 1432827319,
+      "answer_id": 30511085,
+      "question_id": 30503251
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/1",
+    "value": {
+      "owner": {
+        "reputation": 2018,
+        "user_id": 1455713,
+        "user_type": "registered",
+        "profile_image": "http://i.stack.imgur.com/wUPor.jpg?s=128&g=1",
+        "display_name": "Brian Noah",
+        "link": "http://stackoverflow.com/users/1455713/brian-noah"
+      },
+      "is_accepted": false,
+      "score": 2,
+      "last_activity_date": 1432827319,
+      "last_edit_date": 1432827319,
+      "creation_date": 1432826645,
+      "answer_id": 30510806,
+      "question_id": 30510687
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/2",
+    "value": {
+      "owner": {
+        "reputation": 151,
+        "user_id": 2110050,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "http://i.stack.imgur.com/iphDa.jpg?s=128&g=1",
+        "display_name": "ursgtm",
+        "link": "http://stackoverflow.com/users/2110050/ursgtm"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1432827316,
+      "creation_date": 1432827316,
+      "answer_id": 30511084,
+      "question_id": 30510343
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/items/30"
+  },
+  {
+    "op": "remove",
+    "path": "/items/30"
+  },
+  {
+    "op": "remove",
+    "path": "/items/30"
+  }
+]

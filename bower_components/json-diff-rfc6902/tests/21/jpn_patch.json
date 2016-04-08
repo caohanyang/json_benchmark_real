@@ -1,0 +1,48 @@
+[
+  {
+    "op": "move",
+    "from": "/4",
+    "path": "/3"
+  },
+  {
+    "op": "remove",
+    "path": "/4"
+  },
+  {
+    "op": "move",
+    "from": "/7",
+    "path": "/4"
+  },
+  {
+    "op": "remove",
+    "path": "/5"
+  },
+  {
+    "op": "add",
+    "value": {
+      "f1": "q",
+      "f2": 3
+    },
+    "path": "/5"
+  },
+  {
+    "op": "remove",
+    "path": "/6"
+  },
+  {
+    "op": "add",
+    "value": {
+      "f1": 0,
+      "f2": 1
+    },
+    "path": "/6"
+  },
+  {
+    "op": "add",
+    "value": {
+      "f1": "q",
+      "f2": 3
+    },
+    "path": "/8"
+  }
+]

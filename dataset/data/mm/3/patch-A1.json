@@ -1,0 +1,1011 @@
+{
+  "father": {
+    "0": {
+      "daughters": {
+        "0": {
+          "evE--j": [
+            "VPgZtw1EDXG"
+          ]
+        },
+        "1": {
+          "age": [
+            11,
+            -699.4049866024964
+          ],
+          "LrwI7": [
+            "6D079C"
+          ]
+        },
+        "3": [
+          "JO7lOMAR"
+        ],
+        "_t": "a"
+      },
+      "x": [
+        "zScB"
+      ]
+    },
+    "1": {
+      "id": [
+        2,
+        -341.7830943253193
+      ]
+    },
+    "2": {
+      "married": [
+        false,
+        true
+      ],
+      "daughters": {
+        "1": {
+          "dC": [
+            "sxJCRf"
+          ]
+        },
+        "2": {
+          "age": [
+            23,
+            -567.642602862438
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "3": {
+      "daughters": {
+        "0": {
+          "age": [
+            25,
+            -131.04736097478474
+          ]
+        },
+        "2": {
+          "hY": [
+            ""
+          ]
+        },
+        "_t": "a"
+      },
+      "eghenc": [
+        "JlhtcemoEjfP"
+      ]
+    },
+    "4": {
+      "sons": [
+        null,
+        0,
+        0
+      ],
+      "daughters": {
+        "0": {
+          "age": [
+            11,
+            -598.5630479357783
+          ],
+          "name": [
+            "Jason",
+            0,
+            0
+          ]
+        },
+        "1": {
+          "ZrR": [
+            "dNj_hio"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "5": {
+      "daughters": {
+        "3": [
+          "HgjJA3"
+        ],
+        "_t": "a"
+      }
+    },
+    "7": {
+      "name": [
+        "Amy Martin",
+        "Amy Marti"
+      ],
+      "daughters": {
+        "2": {
+          "r": [
+            "Obm4hud6uqviBwg"
+          ]
+        },
+        "3": [
+          "5Lg8"
+        ],
+        "4": [
+          "mvDcrUAdeJFbq"
+        ],
+        "_t": "a"
+      }
+    },
+    "8": {
+      "married": [
+        false,
+        0,
+        0
+      ],
+      "daughters": {
+        "3": [
+          "2eH-McEFzDZYs"
+        ],
+        "_t": "a"
+      },
+      "ApI": [
+        "v06iGE"
+      ]
+    },
+    "9": {
+      "id": [
+        10,
+        -650.0793981377367
+      ],
+      "name": [
+        "Kenneth Hernandez",
+        0,
+        0
+      ],
+      "sons": [
+        null,
+        0,
+        0
+      ],
+      "daughters": {
+        "0": {
+          "2OxdZ": [
+            "jJ"
+          ]
+        },
+        "1": {
+          "age": [
+            30,
+            0,
+            0
+          ]
+        },
+        "2": {
+          "age": [
+            18,
+            0,
+            0
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "10": {
+      "married": [
+        false,
+        true
+      ],
+      "daughters": {
+        "0": {
+          "bk": [
+            "oii"
+          ]
+        },
+        "1": {
+          "age": [
+            8,
+            -978.8503490101008
+          ]
+        },
+        "2": {
+          "name": [
+            "Sandra",
+            0,
+            0
+          ]
+        },
+        "3": [
+          "J"
+        ],
+        "_t": "a"
+      }
+    },
+    "11": {
+      "daughters": {
+        "1": {
+          "age": [
+            12,
+            0,
+            0
+          ]
+        },
+        "2": {
+          "3M89p7": [
+            "2F63KgO"
+          ]
+        },
+        "_t": "a"
+      },
+      "K": [
+        "jRrC22pt"
+      ]
+    },
+    "12": {
+      "sons": [
+        null,
+        0,
+        0
+      ],
+      "daughters": {
+        "3": [
+          "unCiTMDFWiARf"
+        ],
+        "_t": "a"
+      },
+      "": [
+        "RjWK51C"
+      ]
+    },
+    "13": {
+      "married": [
+        true,
+        false
+      ],
+      "daughters": {
+        "0": {
+          "name": [
+            "Frank",
+            "Fra"
+          ]
+        },
+        "3": [
+          "rhphTmj8tEgYf"
+        ],
+        "_t": "a"
+      }
+    },
+    "14": {
+      "0": [
+        "9xY23"
+      ],
+      "name": [
+        "Susan Miller",
+        "SiE6ller"
+      ],
+      "daughters": {
+        "2": {
+          "age": [
+            28,
+            -310.1663898213483
+          ],
+          "name": [
+            "Elizabeth",
+            "Elizab9gYksvqceth"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "15": {
+      "daughters": {
+        "3": [
+          "bQMi1"
+        ],
+        "_t": "a"
+      }
+    },
+    "16": {
+      "name": [
+        "Carol Harris",
+        "Carol Haris"
+      ],
+      "daughters": {
+        "1": {
+          "yQCxGp": [
+            "n1f37DPvkw"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "17": {
+      "daughters": {
+        "0": {
+          "age": [
+            2,
+            0,
+            0
+          ]
+        },
+        "1": {
+          "age": [
+            21,
+            -960.5711241628682
+          ]
+        },
+        "2": {
+          "nCE2e": [
+            ""
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "18": {
+      "id": [
+        19,
+        -644.7908844388332
+      ],
+      "married": [
+        false,
+        true
+      ],
+      "sons": [
+        null,
+        0,
+        0
+      ]
+    },
+    "19": {
+      "name": [
+        "Richard Martinez",
+        "RichardWTsijx Martinez"
+      ],
+      "daughters": {
+        "2": {
+          "8k": [
+            "9G"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "20": {
+      "sons": [
+        null,
+        0,
+        0
+      ],
+      "daughters": {
+        "2": {
+          "rHYB": [
+            "NUInqeSFlOC_C"
+          ]
+        },
+        "_t": "a"
+      },
+      "0m": [
+        "PhFx58rAJz"
+      ]
+    },
+    "21": {
+      "name": [
+        "Anthony Jones",
+        0,
+        0
+      ],
+      "daughters": {
+        "2": {
+          "age": [
+            30,
+            -10.704018548746376
+          ]
+        },
+        "_t": "a"
+      },
+      "cpdj_t": [
+        "cXhs"
+      ]
+    },
+    "22": {
+      "name": [
+        "Cynthia Lee",
+        0,
+        0
+      ],
+      "daughters": {
+        "1": {
+          "age": [
+            8,
+            918.2825778328745
+          ],
+          "u7": [
+            "wHcxjqLppb"
+          ]
+        },
+        "2": {
+          "Xv6H-q": [
+            "fiet1Tq"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "23": {
+      "daughters": {
+        "2": {
+          "age": [
+            20,
+            -566.7426765142823
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "24": {
+      "id": [
+        25,
+        0,
+        0
+      ],
+      "daughters": {
+        "2": {
+          "name": [
+            "Thomas",
+            0,
+            0
+          ]
+        },
+        "3": [
+          "-kGkmMTY2Wr"
+        ],
+        "_t": "a"
+      }
+    },
+    "25": {
+      "married": [
+        false,
+        0,
+        0
+      ],
+      "name": [
+        "Dorothy Hall",
+        "DoftYH1grHall"
+      ],
+      "daughters": {
+        "1": {
+          "age": [
+            31,
+            477.74057784944785
+          ]
+        },
+        "3": [
+          "kCY"
+        ],
+        "_t": "a"
+      }
+    },
+    "26": {
+      "daughters": {
+        "1": {
+          "age": [
+            28,
+            0,
+            0
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "28": {
+      "daughters": {
+        "2": {
+          "age": [
+            14,
+            612.9986314772295
+          ],
+          "0g": [
+            "WeZJibpbUWuWfY"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "29": {
+      "daughters": {
+        "2": {
+          "name": [
+            "Linda",
+            0,
+            0
+          ]
+        },
+        "_t": "a"
+      },
+      "Q": [
+        "5EfL"
+      ]
+    },
+    "30": {
+      "daughters": {
+        "1": {
+          "age": [
+            8,
+            0,
+            0
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "31": {
+      "daughters": {
+        "1": {
+          "age": [
+            14,
+            0,
+            0
+          ]
+        },
+        "_t": "a"
+      },
+      "Sxs6": [
+        "AiixLgRbhPmJfv5"
+      ]
+    },
+    "32": {
+      "daughters": {
+        "0": {
+          "age": [
+            7,
+            0,
+            0
+          ],
+          "name": [
+            "Melissa",
+            0,
+            0
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "33": {
+      "id": [
+        34,
+        -338.8553127520935
+      ],
+      "daughters": {
+        "1": {
+          "age": [
+            13,
+            0,
+            0
+          ]
+        },
+        "2": {
+          "vC_": [
+            "hkDJJSyzl"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "34": {
+      "married": [
+        true,
+        false
+      ]
+    },
+    "35": {
+      "name": [
+        "Anthony Harris",
+        0,
+        0
+      ],
+      "daughters": {
+        "0": {
+          "Y": [
+            "Y"
+          ]
+        },
+        "_t": "a"
+      },
+      "7B": [
+        "9utpsu893IvB"
+      ],
+      "O": [
+        "aHF44"
+      ]
+    },
+    "36": {
+      "married": [
+        false,
+        true
+      ],
+      "daughters": {
+        "1": {
+          "qZjP": [
+            "Ie1nz70g8Jwek"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "37": {
+      "daughters": {
+        "1": {
+          "YF": [
+            "WMl_Zt"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "38": {
+      "daughters": {
+        "0": {
+          "age": [
+            8,
+            -9.334603572758851
+          ],
+          "name": [
+            "Kevin",
+            0,
+            0
+          ]
+        },
+        "2": {
+          "age": [
+            16,
+            204.6919273409751
+          ]
+        },
+        "3": [
+          "IIYJUl6VUDuTK"
+        ],
+        "_t": "a"
+      }
+    },
+    "39": {
+      "daughters": {
+        "1": {
+          "H": [
+            "na23IgJG"
+          ]
+        },
+        "3": [
+          "X9hN8Lfoppoa4yw"
+        ],
+        "_t": "a"
+      }
+    },
+    "40": {
+      "daughters": {
+        "0": {
+          "name": [
+            "Steven",
+            0,
+            0
+          ]
+        },
+        "2": {
+          "name": [
+            "Kevin",
+            0,
+            0
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "41": {
+      "daughters": {
+        "2": {
+          "u": [
+            "EdYx6rRYq"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "42": {
+      "daughters": {
+        "0": {
+          "name": [
+            "Nancy",
+            0,
+            0
+          ]
+        },
+        "2": {
+          "age": [
+            28,
+            278.5152798979723
+          ]
+        },
+        "3": [
+          "LUJ_V"
+        ],
+        "_t": "a"
+      }
+    },
+    "43": {
+      "married": [
+        false,
+        0,
+        0
+      ]
+    },
+    "44": {
+      "daughters": {
+        "1": {
+          "name": [
+            "Lisa",
+            "L"
+          ]
+        },
+        "_t": "a"
+      },
+      "": [
+        "fgijf"
+      ]
+    },
+    "45": {
+      "sons": [
+        null,
+        0,
+        0
+      ],
+      "daughters": {
+        "0": {
+          "age": [
+            29,
+            0,
+            0
+          ]
+        },
+        "1": {
+          "age": [
+            2,
+            -255.35914629068418
+          ],
+          "": [
+            "w2lS"
+          ]
+        },
+        "3": [
+          "dHTJSQ9rlGv"
+        ],
+        "_t": "a"
+      },
+      "0jsgV-": [
+        "z3YlkfwEmSZwS5"
+      ]
+    },
+    "48": {
+      "daughters": {
+        "0": {
+          "name": [
+            "Michael",
+            0,
+            0
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "49": {
+      "nnxW": [
+        "E2a2MhodbJ"
+      ]
+    },
+    "50": {
+      "daughters": {
+        "1": {
+          "": [
+            "f5wxFh3H"
+          ]
+        },
+        "_t": "a"
+      },
+      "": [
+        "Y70Ho4tdCpL6tAY"
+      ]
+    },
+    "51": {
+      "6": [
+        "JbUJSbTDuVmayqp"
+      ],
+      "id": [
+        52,
+        -626.3412463127756
+      ],
+      "daughters": {
+        "3": [
+          "Y4cLv"
+        ],
+        "_t": "a"
+      }
+    },
+    "52": {
+      "daughters": {
+        "0": {
+          "5aF0": [
+            "2selELyLd9rLZ"
+          ]
+        },
+        "_t": "a"
+      },
+      "ChL7u": [
+        "hWbSzfi-Is3w"
+      ]
+    },
+    "54": {
+      "daughters": {
+        "0": {
+          "age": [
+            25,
+            0,
+            0
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "55": {
+      "daughters": {
+        "1": {
+          "": [
+            "XViiPZJK"
+          ]
+        },
+        "_t": "a"
+      },
+      "C6rTR": [
+        "1EOddN_"
+      ]
+    },
+    "56": {
+      "daughters": {
+        "1": {
+          "name": [
+            "Jason",
+            0,
+            0
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "57": {
+      "daughters": {
+        "1": {
+          "age": [
+            27,
+            -922.506309069452
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "58": {
+      "daughters": {
+        "0": {
+          "name": [
+            "David",
+            0,
+            0
+          ]
+        },
+        "1": {
+          "": [
+            "QVKTrU"
+          ]
+        },
+        "2": {
+          "age": [
+            15,
+            0,
+            0
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "59": {
+      "married": [
+        true,
+        0,
+        0
+      ],
+      "name": [
+        "George Martin",
+        0,
+        0
+      ],
+      "daughters": {
+        "1": {
+          "age": [
+            2,
+            -218.30457014614058
+          ]
+        },
+        "2": {
+          "0N_gDC": [
+            "wp"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "60": {
+      "id": [
+        61,
+        0,
+        0
+      ],
+      "daughters": {
+        "3": [
+          "zHO6OseZsM"
+        ],
+        "_t": "a"
+      },
+      "IyMH": [
+        "TGlOhyba3"
+      ]
+    },
+    "61": {
+      "married": [
+        false,
+        0,
+        0
+      ],
+      "daughters": {
+        "3": [
+          "x4upk"
+        ],
+        "_t": "a"
+      }
+    },
+    "62": {
+      "married": [
+        true,
+        false
+      ],
+      "daughters": {
+        "0": {
+          "age": [
+            25,
+            -600.3331818525849
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "63": {
+      "daughters": {
+        "0": {
+          "NfaZ_": [
+            "9rCpnpDABioNX"
+          ]
+        },
+        "2": {
+          "mdE": [
+            "hj1DQVqUcWMaJm"
+          ]
+        },
+        "3": [
+          "tlrcFWom5X"
+        ],
+        "_t": "a"
+      }
+    },
+    "64": {
+      "7L": [
+        "YD82HGpg5"
+      ]
+    },
+    "65": [
+      "s3FTc6"
+    ],
+    "66": [
+      "lY"
+    ],
+    "67": [
+      "DP0seKWQbdZl"
+    ],
+    "68": [
+      "ow"
+    ],
+    "_t": "a"
+  }
+}

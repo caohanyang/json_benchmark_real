@@ -1,0 +1,33 @@
+{
+  "name": "json-diff-rfc6902",
+  "main": "JSON-Diff.js",
+  "version": "1.1.1",
+  "homepage": "https://github.com/caohanyang/JSON-Diff",
+  "description": "This framework is to compare two JSON data and generate the Patch",
+  "keywords": [
+    "JSON",
+    "Diff",
+    "Patch"
+  ],
+  "authors": [
+    "Hanyang CAO"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT",
+  "_release": "1.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.1.1",
+    "commit": "35fa9b96e53f7ccf51c87ca8c268040f01222b49"
+  },
+  "_source": "git://github.com/caohanyang/JSON-Diff.git",
+  "_target": "~1.1.1",
+  "_originalSource": "json-diff-rfc6902",
+  "_direct": true
+}

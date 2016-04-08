@@ -1,0 +1,22 @@
+[
+  {
+    "type": "put",
+    "key": [
+      "father",
+      "0",
+      "married"
+    ],
+    "value": true
+  },
+  {
+    "type": "put",
+    "key": [
+      "father",
+      "0",
+      "daughters",
+      "0",
+      "Yr8na"
+    ],
+    "value": "HvXb"
+  }
+]

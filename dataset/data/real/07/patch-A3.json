@@ -1,0 +1,84 @@
+[
+  {
+    "op": "replace",
+    "path": "/quota_remaining",
+    "value": 252
+  },
+  {
+    "op": "add",
+    "path": "/items/0",
+    "value": {
+      "owner": {
+        "reputation": 1619,
+        "user_id": 2740693,
+        "user_type": "registered",
+        "accept_rate": 75,
+        "profile_image": "https://www.gravatar.com/avatar/f1b2ed386aa9b8b11e445f272261b70a?s=128&d=identicon&r=PG",
+        "display_name": "Christian Di Lorenzo",
+        "link": "http://stackoverflow.com/users/2740693/christian-di-lorenzo"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1432827336,
+      "last_edit_date": 1432827336,
+      "creation_date": 1432822445,
+      "answer_id": 30509139,
+      "question_id": 30498528
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/1",
+    "value": {
+      "owner": {
+        "reputation": 328,
+        "user_id": 35150,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/a0eb54cd836dd4e2db903a9ba3f5d4d6?s=128&d=identicon&r=PG",
+        "display_name": "gerleim",
+        "link": "http://stackoverflow.com/users/35150/gerleim"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1432827335,
+      "creation_date": 1432827335,
+      "answer_id": 30511094,
+      "question_id": 30501243
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/2",
+    "value": {
+      "owner": {
+        "reputation": 134556,
+        "user_id": 535871,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "http://i.stack.imgur.com/nhcvo.jpg?s=128&g=1",
+        "display_name": "Ted Hopp",
+        "link": "http://stackoverflow.com/users/535871/ted-hopp"
+      },
+      "is_accepted": false,
+      "score": 1,
+      "last_activity_date": 1432827334,
+      "last_edit_date": 1432827334,
+      "creation_date": 1432826717,
+      "answer_id": 30510834,
+      "question_id": 30510745
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/items/30"
+  },
+  {
+    "op": "remove",
+    "path": "/items/30"
+  },
+  {
+    "op": "remove",
+    "path": "/items/30"
+  }
+]

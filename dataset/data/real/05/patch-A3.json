@@ -1,0 +1,82 @@
+[
+  {
+    "op": "replace",
+    "path": "/quota_remaining",
+    "value": 254
+  },
+  {
+    "op": "add",
+    "path": "/items/0",
+    "value": {
+      "owner": {
+        "reputation": 5272,
+        "user_id": 2128691,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "http://i.stack.imgur.com/YV6xv.jpg?s=128&g=1",
+        "display_name": "dax",
+        "link": "http://stackoverflow.com/users/2128691/dax"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1432827328,
+      "last_edit_date": 1432827328,
+      "creation_date": 1432826836,
+      "answer_id": 30510892,
+      "question_id": 30509923
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/1",
+    "value": {
+      "owner": {
+        "reputation": 29086,
+        "user_id": 2128947,
+        "user_type": "registered",
+        "profile_image": "http://i.stack.imgur.com/0uPyR.jpg?s=128&g=1",
+        "display_name": "Magoo",
+        "link": "http://stackoverflow.com/users/2128947/magoo"
+      },
+      "is_accepted": false,
+      "score": 0,
+      "last_activity_date": 1432827328,
+      "creation_date": 1432827328,
+      "answer_id": 30511089,
+      "question_id": 30510949
+    }
+  },
+  {
+    "op": "add",
+    "path": "/items/2",
+    "value": {
+      "owner": {
+        "reputation": 1156,
+        "user_id": 2505965,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/5056f8ef1dc81df419a479f24d5f80f5?s=128&d=identicon&r=PG",
+        "display_name": "Oka",
+        "link": "http://stackoverflow.com/users/2505965/oka"
+      },
+      "is_accepted": false,
+      "score": 1,
+      "last_activity_date": 1432827325,
+      "last_edit_date": 1432827325,
+      "creation_date": 1432826314,
+      "answer_id": 30510656,
+      "question_id": 30510298
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/items/30"
+  },
+  {
+    "op": "remove",
+    "path": "/items/30"
+  },
+  {
+    "op": "remove",
+    "path": "/items/30"
+  }
+]

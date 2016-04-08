@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/father/0/daughters/0/Yr8na",
+    "value": "HvXb"
+  },
+  {
+    "op": "replace",
+    "path": "/father/0/married",
+    "value": true
+  }
+]

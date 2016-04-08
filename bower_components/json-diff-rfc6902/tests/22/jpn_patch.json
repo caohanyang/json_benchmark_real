@@ -1,0 +1,35 @@
+[
+  {
+    "op": "remove",
+    "path": "/3"
+  },
+  {
+    "op": "add",
+    "value": {
+      "f1": "m",
+      "f2": "n"
+    },
+    "path": "/3"
+  },
+  {
+    "op": "remove",
+    "path": "/5"
+  },
+  {
+    "op": "add",
+    "value": {
+      "f1": "g",
+      "f2": "h"
+    },
+    "path": "/5"
+  },
+  {
+    "op": "move",
+    "from": "/7",
+    "path": "/6"
+  },
+  {
+    "op": "remove",
+    "path": "/7"
+  }
+]

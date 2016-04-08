@@ -1,0 +1,19 @@
+{
+  "father": {
+    "0": {
+      "married": [
+        true,
+        false
+      ],
+      "daughters": {
+        "0": {
+          "Yr8na": [
+            "HvXb"
+          ]
+        },
+        "_t": "a"
+      }
+    },
+    "_t": "a"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "op": "add",
+    "path": "/father/0",
+    "value": {
+      "id": 1,
+      "married": false,
+      "name": "Cynthia Lopez",
+      "sons": null,
+      "daughters": [
+        {
+          "age": 19,
+          "name": "Mark"
+        }
+      ],
+      "S": "dJYgWuw9"
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/father/1"
+  }
+]

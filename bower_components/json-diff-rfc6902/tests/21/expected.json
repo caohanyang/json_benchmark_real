@@ -1,0 +1,28 @@
+[
+  {
+    "op": "remove",
+    "path": "/3"
+  },
+  {
+    "op": "remove",
+    "path": "/4"
+  },
+  {
+    "op": "replace",
+    "path": "/4",
+    "value": {
+      "f1": "q",
+      "f2": 3
+    }
+  },
+  {
+    "op": "copy",
+    "path": "/5",
+    "from": "/6"
+  },
+  {
+    "op": "copy",
+    "path": "/6",
+    "from": "/0"
+  }
+]
